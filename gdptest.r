@@ -54,4 +54,4 @@ Ftocalvin <- function (ftemp) (
   return ((ftemp-32)*5/9 + 273.15))
 Ftocalvin (12)
 
-
+# free
